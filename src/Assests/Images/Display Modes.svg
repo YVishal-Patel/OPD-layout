@@ -1,0 +1,26 @@
+<svg id="Display_Modes" data-name="Display Modes" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="30" height="30" transform="translate(2325 55)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Shape" fill="none" stroke="#dedede" stroke-width="1" opacity="0.4">
+    <rect width="80" height="80" rx="40" stroke="none"/>
+    <rect x="0.5" y="0.5" width="79" height="79" rx="39.5" fill="none"/>
+  </g>
+  <g id="Sun" transform="translate(-2300 -30)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(2325 55)">
+      <g id="OBJECTS">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="6.731" cy="6.731" r="6.731" transform="translate(8.268 8.268)" fill="#fff"/>
+        <path id="Path_2" data-name="Path 2" d="M15,6.088a.609.609,0,0,1-.609-.609V.609a.609.609,0,0,1,1.218,0V5.479A.609.609,0,0,1,15,6.088Z" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M15,30a.609.609,0,0,1-.609-.609V24.521a.609.609,0,1,1,1.218,0v4.871A.609.609,0,0,1,15,30Z" fill="#fff"/>
+        <path id="Path_4" data-name="Path 4" d="M29.391,15.607H24.521a.609.609,0,1,1,0-1.218h4.871a.609.609,0,1,1,0,1.218Z" fill="#fff"/>
+        <path id="Path_5" data-name="Path 5" d="M5.479,15.607H.609a.609.609,0,0,1,0-1.218H5.479a.609.609,0,1,1,0,1.218Z" fill="#fff"/>
+        <path id="Path_6" data-name="Path 6" d="M25.175,25.784a.609.609,0,0,1-.429-.177l-3.437-3.449a.609.609,0,1,1,.849-.849l3.449,3.437a.609.609,0,0,1-.432,1.038Z" fill="#fff"/>
+        <path id="Path_7" data-name="Path 7" d="M8.271,8.88a.609.609,0,0,1-.432-.18L4.393,5.254a.609.609,0,0,1,.861-.861L8.7,7.839A.609.609,0,0,1,8.271,8.88Z" fill="#fff"/>
+        <path id="Path_8" data-name="Path 8" d="M4.825,25.784a.609.609,0,0,1-.432-1.038l3.446-3.437a.609.609,0,1,1,.861.858l-3.446,3.44a.609.609,0,0,1-.429.177Z" fill="#fff"/>
+        <path id="Path_9" data-name="Path 9" d="M21.729,8.88a.609.609,0,0,1-.42-1.041l3.437-3.446a.609.609,0,1,1,.861.861L22.158,8.7A.609.609,0,0,1,21.729,8.88Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

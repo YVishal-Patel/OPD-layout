@@ -1,0 +1,15 @@
+.home-head{
+    margin-top: 7rem;
+}
+.home-head-heading{
+    font-size: 45px;
+    text-transform: capitalize;
+    font-family: Semibold;
+    color: #fff;
+}
+.home-head-heading-data{
+    margin-top: -1rem;
+    font-size: 16px;
+    color: rgb(93, 91, 91);
+    font-family: vishalRegular;
+}

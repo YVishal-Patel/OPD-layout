@@ -1,0 +1,89 @@
+.explore-main{
+    margin-top: 5rem;
+    width: 100%;
+    height: fit-content;
+}
+
+.explore-main-headings{
+    font-size: 29px;
+    font-family: vishalRegular;
+}
+.explore-main-headings, .explore-blogchain-data{
+    color: #fff;
+}
+.explore-blogchain-data{
+    font-size: 15px;
+    font-family: vishalRegular;
+}
+
+.explore-card-main{
+    margin-top: 2rem;
+    width: 200px;
+    height: 280px;
+    border-radius: 10px;
+    background-color: #1A0F27 ;
+}
+.explore-card-main-img{
+    padding: 0.7rem 0.7rem;
+}
+.explore-card-dot{
+    margin-top: -0.4rem;
+    margin-right: 1rem;
+    color: #fff;
+    font-size: 14px;
+}
+.explore-card-name{
+    padding: 0 0.7rem;
+    margin-top: -0.4rem;
+    font-size: 14px;
+    color: #fff;
+    font-family: Semibold;
+}
+.explore-card-nickName{
+    font-size: 12px;
+    padding: 0 0.7rem;
+    color: rgb(135, 133, 133);
+}
+.explore-nick{
+    margin-top: -0.2rem;
+
+}
+.card-img{
+    height: 190px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+.explore-final-card{
+    padding: 0 0.7rem;
+}
+.explore-card-th{
+    font-size: 13px;
+    color: rgb(185, 46, 46);
+    font-weight: vishalRegular;
+}
+.images-card{
+    margin-top: -0.4rem;
+}
+.images-card-explore, .images-card-explore1, .images-card-explore2{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.images-card-explore1, .images-card-explore2{
+    margin-left: -0.7rem;
+}
+.indexes-explre-comp{
+    margin: 0.2rem;
+}
+.explore-last-btn{
+    margin-top: 2rem;
+    width: 100%;
+    padding: 0.6rem auto;
+    background-color: transparent;
+    border: 1px solid black;
+    outline: none;
+    color: #fff;
+    padding: 0.6rem 1rem;
+    border-radius: 20px;
+    font-family: vishalRegular;
+}

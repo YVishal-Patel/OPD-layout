@@ -5,9 +5,39 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-color: white !important; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: vishalBold;
+  src: url(./OPD/OPD-assets/Gilroy-Bold.ttf);
+}
+@font-face {
+  font-family: vishal;
+  src: url(./OPD/OPD-assets/Gilroy-Bold.ttf);
+}
+@font-face {
+  font-family: vishalHeavy ;
+  src: url(./OPD/OPD-assets/Gilroy-Heavy.ttf);
+}
+@font-face {
+  font-family: vishalBolder;
+  src: url(./OPD/OPD-assets/Gilroy-ExtraBold.ttf);
+}
+@font-face {
+  font-family: vishalRegular;
+  src: url(./OPD/OPD-assets/Gilroy-Regular.ttf);
+}
+@font-face {
+  font-family: Semibold;
+  src: url(./OPD/OPD-assets/Gilroy-SemiBold.ttf);
+}
+@font-face {
+  font-family: vishalMedium;
+  src: url(./OPD/OPD-assets/Gilroy-Medium.ttf);
 }

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="37" height="37" fill="#7600ff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_113" data-name="Path 113" d="M18.5,0A18.5,18.5,0,1,1,0,18.5,18.5,18.5,0,0,1,18.5,0Z" transform="translate(0 0)" fill="#f4ebff"/>
+        <g id="Group_295" data-name="Group 295">
+          <g id="Group_110" data-name="Group 110">
+            <g id="Group_32" data-name="Group 32">
+              <path id="Path_57" data-name="Path 57" d="M18.5,5.327,10.3,18.77l8.2-3.634Z" fill="#7898f4"/>
+              <path id="Path_58" data-name="Path 58" d="M18.5,5.327,26.7,18.77l-8.2-3.634Z" fill="#7898f4"/>
+              <path id="Path_59" data-name="Path 59" d="M18.5,23.557V15.135l8.2,3.634Z" fill="#97b0f8"/>
+              <path id="Path_60" data-name="Path 60" d="M18.5,23.557V15.135l-8.2,3.634Z" fill="#97b0f8"/>
+              <path id="Path_61" data-name="Path 61" d="M18.5,25.012v6.662l8.2-11.381Z" fill="#7898f4"/>
+              <path id="Path_62" data-name="Path 62" d="M18.5,25.012v6.662L10.3,20.292Z" fill="#7898f4"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

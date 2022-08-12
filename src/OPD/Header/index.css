@@ -1,0 +1,61 @@
+
+.header-main-data-head-mained{
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    z-index: 99999999;
+    background-color: black;
+    margin-top: -7rem;
+}
+/* .header-main-heading{
+    margin-top: 0.7rem;
+} */
+
+.header-main-headings{
+    margin-top: 0.9rem;
+    font-size: 29px;
+    color: #fff;
+    letter-spacing: 0.6px;
+    font-family: vishalMedium;
+}
+.header-right-div{
+    margin-top: 0.9rem;
+}
+.activity{
+    margin-top:0.7rem;
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    font-size: 15px;
+    font-family: vishalRegular;
+    color: #fff;
+    cursor: pointer;
+}
+.header-upper{
+    padding: 0.6rem 1rem !important;
+    background: #1a1a1a !important;
+}
+.header-upper::placeholder{
+        color: #fff;
+}
+.banner-data-head{
+    cursor: pointer;
+    /* border: 1px solid #fff; */
+
+}
+.wallet-btn{
+    padding: 0.6rem 0.8rem !important;
+}
+.menu-header{
+    margin-left: 1rem;
+    /* margin-top: .5rem; */
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+.fa-bars{
+    margin-top: 0.7rem;
+    margin-left: 0.7rem;
+    color: #fff !important;
+}

@@ -1,0 +1,48 @@
+.topseller-main{
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+.top-seller-head{
+margin: 1rem 0;
+font-size: 29px;
+font-weight: vishalRegular;
+color:#fff;
+}
+.background-img{
+    width: 280px;
+    margin-left: 0.5rem;
+    height: 100px;
+    object-fit: cover;
+    margin-top: 0.5rem;
+    border-radius: 10px;
+}
+.profile-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -1.4rem;
+}
+.top-seller-data-main{
+    width: 300px;
+    height: 190px;
+    background: linear-gradient(90deg, #1E0E31, #211134);
+    border-radius: 20px;
+}
+.topseller-name{
+    margin-top: -1.3rem;
+}
+.topseller-name{
+color: #fff;
+font-family: vishalRegular;
+font-size: 17px;
+}
+.money{
+color: darkgrey;
+font-size: 13px;
+font-family: vishalRegular;
+margin-top: -0.9rem !important;
+}
+
+.top-seller-brand{
+    color: #7F6AFD !important;
+}

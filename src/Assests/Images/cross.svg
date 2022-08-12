@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000.494" height="1005.383" viewBox="0 0 3206.494 845.383">
+  <defs>
+    <filter id="Path_64" x="2.672" y="0" width="3166.966" height="845.383" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_136" data-name="Group 136" transform="translate(331.728 -4314.482)">
+    <g id="Group_135" data-name="Group 135" transform="matrix(0.995, -0.105, 0.105, 0.995, -289.988, 4883.912)">
+      <path id="Path_64-2" data-name="Path 64" d="M.009.155,2877.389,0l-.009,159.9L0,160.058Z" transform="translate(155.986 0)" fill="#c7d800"/>
+      <g id="Group_133" data-name="Group 133" transform="translate(0 44.051)">
+        <text id="Summer_Sale" data-name="Summer Sale" transform="translate(1236.42 52.054)" font-size="58" font-family="poppins" font-weight="700"><tspan x="-264.944" y="0">Summer Sale</tspan></text>
+        <text id="Summer_Sale-2" data-name="Summer Sale" transform="translate(2905.304 52)" font-size="58" font-family="poppins" font-weight="700"><tspan x="-264.944" y="0">Summer Sale</tspan></text>
+        <text id="Up_to_50_discount" data-name="Up to 50% discount" transform="translate(2065.885 52.037)" fill="none" stroke="#000" stroke-width="2" font-size="58" font-family="poppins" font-weight="700"><tspan x="2" y="0">Up to 50% discount</tspan></text>
+        <text id="Up_to_50_discount-2" data-name="Up to 50% discount" transform="translate(397 52.091)" fill="none" stroke="#000" stroke-width="2" font-size="58" font-family="MonumentExtended-Ultrabold, Monument Extended" font-weight="700"><tspan x="-396.952" y="0">Up to 50% discount</tspan></text>
+      </g>
+    </g>
+    <g id="Group_134" data-name="Group 134" transform="translate(-313.246 4442.092) rotate(8)">
+      <g transform="matrix(0.99, -0.14, 0.14, 0.99, -36.06, -123.8)" filter="url(#Path_64)">
+        <path id="Path_64-3" data-name="Path 64" d="M0,.052,2877.137-.609l-.038,148.751L-.035,148.8Z" transform="translate(171.92 149.11) rotate(8)" fill="#ebff00"/>
+      </g>
+      <g id="Group_133-2" data-name="Group 133" transform="translate(-1.094 43.899)">
+        <text id="Summer_Sale-3" data-name="Summer Sale" transform="translate(1218.332 48.866)" font-size="54" font-family="poppins" font-weight="700"><tspan x="-246.672" y="0">Summer Sale</tspan></text>
+        <text id="Summer_Sale-4" data-name="Summer Sale" transform="translate(2896.05 49.418)" font-size="56" font-family="poppins" font-weight="700"><tspan x="-255.808" y="0">Summer Sale</tspan></text>
+        <text id="Up_to_50_discount-3" data-name="Up to 50% discount" transform="translate(2051.717 49.679)" fill="none" stroke="#000" stroke-width="2" font-size="56" font-family="poppins" font-weight="700"><tspan x="-383.264" y="0">Up to 50% discount</tspan></text>
+        <text id="Up_to_50_discount-4" data-name="Up to 50% discount" transform="translate(370.034 49.127)" fill="none" stroke="#000" stroke-width="2" font-size="54" font-family="poppins"font-weight="700"><tspan x="-369.576" y="0">Up to 50% discount</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

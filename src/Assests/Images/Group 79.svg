@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="33" viewBox="0 0 32 33">
+  <g id="Group_79" data-name="Group 79" transform="translate(0 -0.365)">
+    <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="16" cy="16.5" rx="16" ry="16.5" transform="translate(0 0.365)" fill="#7600ff" opacity="0.4"/>
+    <g id="Group_32" data-name="Group 32" transform="translate(8.903 4.902)">
+      <path id="Path_57" data-name="Path 57" d="M2069.052,101.937l-7.376,12.091,7.376-3.268Z" transform="translate(-2061.676 -101.937)" fill="#fffffb"/>
+      <path id="Path_58" data-name="Path 58" d="M2177.332,101.937l7.376,12.091-7.376-3.268Z" transform="translate(-2169.956 -101.937)" fill="#becdfb"/>
+      <path id="Path_59" data-name="Path 59" d="M2177.332,247.846v-7.576l7.376,3.268Z" transform="translate(-2169.956 -231.449)" fill="#7898f4"/>
+      <path id="Path_60" data-name="Path 60" d="M2069.052,247.846v-7.576l-7.376,3.268Z" transform="translate(-2061.676 -231.449)" fill="#c1cdf9"/>
+      <path id="Path_61" data-name="Path 61" d="M2177.332,317.219v5.99l7.376-10.236Z" transform="translate(-2169.956 -299.515)" fill="#c4cdfe"/>
+      <path id="Path_62" data-name="Path 62" d="M2069.052,317.219v5.99l-7.376-10.236Z" transform="translate(-2061.676 -299.515)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
