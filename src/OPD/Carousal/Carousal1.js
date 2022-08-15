@@ -56,24 +56,24 @@ export default class FocusOnSelect extends Component {
           },
         },
         {
-          breakpoint: 1100,
-          settings: {
-            arrows: false,
-            slidesToShow: 3,
-          },
-        },
-        {
-          breakpoint: 830,
+          breakpoint: 464,
           settings: {
             arrows: false,
             slidesToShow: 2,
           },
         },
         {
-          breakpoint: 481,
+          breakpoint: 768,
           settings: {
             arrows: false,
-            slidesToShow: 1,
+            slidesToShow: 4,
+          },
+        },
+        {
+          breakpoint: 620,
+          settings: {
+            arrows: false,
+            slidesToShow: 3,
           },
         },
       ],
@@ -83,59 +83,59 @@ export default class FocusOnSelect extends Component {
       <div className="carouel-slider-main">
       <div>
         <Slider {...settings}>
-        <div className="main-carousel-div">
-             <img src={img1} className="img-size-carousel" alt="" />
+        <div className="main-carousel-div1">
+             <img src={img1} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
-           <div className="main-carousel-div">
-             <img src={img2} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img2} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
-           <div className="main-carousel-div">
-             <img src={img3} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img3} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
-           <div className="main-carousel-div">
-             <img src={img4} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img4} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
-           <div className="main-carousel-div">
-             <img src={img5} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img5} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
-           <div className="main-carousel-div">
-             <img src={img6} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img6} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
 
-           <div className="main-carousel-div">
-             <img src={img7} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img7} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
-           <div className="main-carousel-div">
-             <img src={img2} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img2} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
-           <div className="main-carousel-div">
-             <img src={img4} className="img-size-carousel" alt="" />
+           <div className="main-carousel-div1">
+             <img src={img4} className="img-size-carousel1" alt="" />
              <div className="carousel-data">
-             <p  className="card-type-name">Azuki</p>
+             <p  className="card-type-name1">Azuki</p>
              </div>
            </div>
         </Slider>

@@ -3,6 +3,7 @@
     margin-left: 2rem;
 }
 .top-category-main1{
+    margin-top: 5rem;
     margin-left: 2rem;
 
 }
@@ -14,11 +15,27 @@
     color: #675BD9 !important;
 }
 .top-category-card-main, .top-category-card-main-head{
-    width: 350px;
+    width: 100%;
     height: 85px;
     border-radius: 20px;
     background-color:#1D0E2C ;
-    margin-left: 2rem;
+    /* margin-left: 2rem; */
+}
+.top-category-card-main, .top-category-card-main-head{
+    width: 100%;
+    height: 85px;
+    border-radius: 20px;
+    background-color:#1D0E2C ;
+    display: flex;
+    flex-wrap: wrap;
+}
+.top-category-card-main1, .top-category-card-main-head1{
+    width: 100%;
+    height: 85px;
+    border-radius: 20px;
+    background-color:#1D0E2C ;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .top-category-card-main-head img{

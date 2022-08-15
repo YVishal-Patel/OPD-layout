@@ -18,8 +18,9 @@ function TopSeller() {
               <div className="top-seller-head">
                   <span className='top-sellet'> Top Seller in <span className='top-seller-brand'> 1 Day</span></span>
               </div>
-              <div className="top-seller-data d-flex justify-content-between">
-                    <div className="top-seller-data-main">
+              <div className="row top-seller-data ">
+
+                    <div className="col-12 col-lg-4 col-md-6 top-seller-data-main">
                         <img src={img1} className="background-img" alt="not found" /> <br />
                         <div className="d-flex justify-content-center">
                         <img src={img2} className="profile-img" alt="not found" />
@@ -29,7 +30,7 @@ function TopSeller() {
                         <p className="money text-center">$56,89,45</p>
                     </div>
 
-                    <div className="top-seller-data-main">
+                    <div className="col-12 col-lg-4 col-md-6  top-seller-data-main">
                         <img src={img7} className="background-img" alt="not found" /> <br />
                         <div className="d-flex justify-content-center">
                         <img src={img1} className="profile-img" alt="not found" />
@@ -39,7 +40,7 @@ function TopSeller() {
                         <p className="money text-center">$56,89,45</p>
                     </div>
 
-                    <div className="top-seller-data-main">
+                    <div className="col-12 col-lg-4 col-md-6  top-seller-data-main">
                         <img src={img3} className="background-img" alt="not found" /> <br />
                         <div className="d-flex justify-content-center">
                         <img src={img4} className="profile-img" alt="not found" />
@@ -49,7 +50,7 @@ function TopSeller() {
                         <p className="money text-center">$56,89,45</p>
                     </div>
 
-                    <div className="top-seller-data-main">
+                    <div className="col-12 col-lg-4 col-md-6  top-seller-data-main">
                         <img src={img5} className="background-img" alt="not found" /> <br />
                         <div className="d-flex justify-content-center">
                         <img src={img6} className="profile-img" alt="not found" />

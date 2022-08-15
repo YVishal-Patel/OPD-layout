@@ -1,5 +1,6 @@
 import React from 'react'
 import './index.css'
+import '../Responsive/Responsive.css'
 
 function Home() {
   return (

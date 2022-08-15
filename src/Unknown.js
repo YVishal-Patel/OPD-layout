@@ -1,87 +1,54 @@
-
-
-
-import img1 from '../OPD-assets/img10.jpeg'
-import img2 from '../OPD-assets/img8.jpeg'
-import img3 from '../OPD-assets/img3.jpg'
-import img4 from '../OPD-assets/img4.jpg'
-import img5 from '../OPD-assets/img5.jpg'
-import img7 from '../OPD-assets/img6.jpg'
-import img6 from '../OPD-assets/img7.jpg'
-
-import './Carousal.css'
-
-import React, { Component, useState, useEffect } from "react";
+import React, { Component } from "react";
 import Slider from "react-slick";
-
-function SampleNextArrow(props) {
-   const { className, style, onClick } = props;
-     return (
-       <div
-         className={className}
-         style={{ ...style, color:"black", display: "block", background:'linear-gradient(#8360c3, #009FFF)', borderRadius:"50%",marginLeft:"2rem ", display:"none" }}
-         onClick={onClick}
-      />
-     );
-   }
+import img1 from './OPD/OPD-assets/img1.jpg'
+import img2 from './OPD/OPD-assets/img2.jpg'
+import img3 from './OPD/OPD-assets/img3.jpg'
+import img4 from './OPD/OPD-assets/img4.jpg'
+import img5 from './OPD/OPD-assets/img5.jpg'
+import img7 from './OPD/OPD-assets/img6.jpg'
+import img6 from './OPD/OPD-assets/img7.jpg'
+import './OPD/Carousal/Carousal.css'
 
 
- function SamplePrevArrow(props) {
-   const { className, style, onClick } = props;
-   return (
-     <div
-       className={className}
-       style={{ ...style, display: "block",  background:'linear-gradient(#8360c3, #009FFF)',  borderRadius:"50%", marginRight:"2rem ", display:"none" }}
-       onClick={onClick}
-     />
-   );
- }
-  
-export default class FocusOnSelect extends Component {
+export default class Responsive extends Component {
   render() {
-    const settings = {
-      focusOnSelect: true,
-      infinite: true,
-      slidesToShow: 5,
-      slidesToScroll: 1,
+    var settings = {
+      dots: true,
+      infinite: false,
       speed: 500,
-      nextArrow: <SampleNextArrow />,
-      prevArrow: <SamplePrevArrow />,
+      slidesToShow: 4,
+      slidesToScroll: 4,
+      initialSlide: 0,
       responsive: [
         {
-          breakpoint: 1380,
+          breakpoint: 1024,
           settings: {
-            arrows: false,
-            slidesToShow: 4,
-          },
-        },
-        {
-          breakpoint: 1100,
-          settings: {
-            arrows: false,
             slidesToShow: 3,
-          },
+            slidesToScroll: 3,
+            infinite: true,
+            dots: true
+          }
         },
         {
-          breakpoint: 830,
+          breakpoint: 600,
           settings: {
-            arrows: false,
             slidesToShow: 2,
-          },
+            slidesToScroll: 2,
+            initialSlide: 2
+          }
         },
         {
-          breakpoint: 481,
+          breakpoint: 480,
           settings: {
-            arrows: false,
             slidesToShow: 1,
-          },
-        },
-      ],
-          
+            slidesToScroll: 1
+          }
+        }
+      ]
     };
     return (
-      <div className="carouel-slider-main">
-      <div>
+        <div className="carouel-slider-main">
+        <div>
         <Slider {...settings}>
         <div className="main-carousel-div">
              <img src={img1} className="img-size-carousel" alt="" />
@@ -139,8 +106,8 @@ export default class FocusOnSelect extends Component {
              </div>
            </div>
         </Slider>
-      </div>
-      </div>
+        </div>
+        </div>
     );
   }
 }

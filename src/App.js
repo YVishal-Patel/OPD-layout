@@ -13,27 +13,35 @@ import TopCollectionCard from './OPD/TopCollectionCard'
 import Slider1 from './OPD/LiveAuction/index'
 import SellNFT from './OPD/SellNFT/index'
 import TopSeller from './OPD/TopSaller/TopSeller'
-
+import Slider2 from './OPD/Carousal/Carousal1'
+import './OPD/Responsive/Responsive.css'
+import {Demo} from './Demo'
 function App() {
   return (
     <>
-   {/* <RoutesMain />  */}
-    <Header />
+     <Header />
     <Home />
-    <Slider />
-    <TopCollectionCard />
-
-    {/* <TopCollection /> */}
+    <div className="slider-carousal">
+     <Slider />
+     </div>
+     <div className="slider-carousal-1">
+     <Slider2 />
+     </div>
+     <TopCollectionCard  />
     <TopCategory />
-    <TopSeller />
+     <TopSeller />
     <SummerSale/>
+    <div className="slider1-big">
     <Slider1 />
-    <Explore />
+    </div>
+    <div className="slider1-small-scr"></div>
+    
+    {/*<Explore />
  <FooterUpperComp />
     <SellNFT />
- <Footer />
+ <Footer />  */}
     </>
   )
 }
 
-export default App
+export default App; 

@@ -1,0 +1,205 @@
+/*------------------------------ header  ---------------------------------  */
+
+/* ---------------------------- (min-width:320px) and (max-width:480px) -------------------------------------- */
+
+
+@media (min-width:320px) and (max-width:400px){
+.top-seller-data-main{
+    margin-left: -0.001rem !important;
+}
+}
+
+@media (min-width:320px) and (max-width:480px){
+
+    /* ---------------------- header ---------------- */
+
+    .navbar-brand{
+        font-size: 15px !important;
+        margin-top: 0.6rem;
+        margin-left: 0.6rem;
+    }
+    .foot-inputs-upper{
+        width: 230px !important;
+    }
+    .header-main-data-head-small{
+        background-color: #000 !important;
+    }
+    .header-small-middle{
+        height: 36px;
+        margin-top: 0.3rem;
+    }
+    .header-upper{
+        padding: 0.1rem 0.2rem !important;
+    }
+    .nav-link-data{
+        color: #fff !important;
+    }
+    .wallet-btn{
+        display: none;
+    }
+
+     /*-------------------- home --------------------------  */
+     .home-head{
+     margin-top: 4rem !important;
+     }
+     .home-head-heading{
+        font-size: 28px !important;
+    }
+    .home-head-heading-data{
+        font-size: 12px;
+        text-align: center !important;
+    }
+    .slider-carousal{
+        display: none !important;
+    }
+    .slider-carousal-1{
+        margin-left: 1rem;
+    }
+    .top-category-main1{
+        display: none;
+    }
+    .top-category-heading-nav{
+        display:none !important;
+       }
+       .top-category-heading{
+           margin-left: 1rem;
+       }
+       .top-category-main1-small{
+        display: block !important;
+        margin-top: 5rem;
+        margin-left: -0.5rem;
+    }
+
+     /*------------------ banner ---------------------  */
+     .internet-banner{
+        margin-top: -5rem !important;
+    }
+}
+
+/* ---------------------------- (min-width:481px) and (max-width:768px) -------------------------------------- */
+
+@media (min-width:481px) and (max-width:778px){
+
+    .navbar-brand{
+        font-size: 25px !important;
+        margin-top: 0.6rem;
+    }
+    .header-main-data-head-small{
+        background-color: #000 !important;
+    }
+    .header-small-middle{
+        height: 46px;
+        margin-top: 0.5rem;
+    }
+    .header-upper{
+        padding: 0.5rem 2rem !important;
+    }
+    .nav-link-data{
+        color: #fff !important;
+    }
+    .wallet-btn{
+        display: none;
+    }
+      /*-------------------- home --------------------------  */
+      .home-head-heading{
+        font-size: 35px !important;
+    }
+    .home-head-heading-data{
+        font-size: 14px;
+        text-align: center !important;
+    }
+    .slider-carousal{
+        display: none !important;
+    }
+    .top-category-main1{
+        display: none !important;
+    }
+    .top-category-main1-small{
+        display: block !important;
+        margin-top: 5rem;
+        margin-left: 1rem;
+    }
+    .top-category-heading-nav{
+     display:none !important;
+    }
+
+    /*------------------ banner ---------------------  */
+    .internet-banner{
+        margin-top: -4rem !important;
+    }
+}
+
+
+/* ---------------------------- (min-width:769px) and (max-width:992px) -------------------------------------- */
+
+@media (min-width:778px) and (max-width:992px){
+   
+    .header-main-data-head-small{
+        background-color: #000 !important;
+    }
+    .header-small-middle{
+        height: 46px;
+        margin-top: 0.5rem;
+    }
+    .header-upper{
+        padding: 0.5rem 7rem !important;
+    }
+    .nav-link-data{
+        color: #fff !important;
+    }
+    .slider-carousal-1{
+        display: none !important;
+    }
+    .slider-carousal{
+        margin-left: 3rem;
+    }
+    .top-category-main1{
+        display: none !important;
+    }
+    .top-category-main1-small{
+        display: block !important;
+        margin-top: 5rem;
+    }
+    .top-category-heading{
+   font-size: 20px;
+   margin-top: 1rem;
+    }
+    .top-category-heading-nav{
+        margin-top: 1.3rem;
+        font-size: 13px;
+        font-family: vishalRegular;
+        color: #fff;
+        cursor: pointer;
+    }
+    .top-category-heading-nav-data-btn {
+     padding: 0.4rem 1rem !important;
+    }
+}
+
+/* ---------------------------- (min-width:993px) and (max-width:1200px) -------------------------------------- */
+
+@media (min-width:993px) and (max-width:1200px){
+    .header-main-data-head-small{
+        display: none;
+    }
+    .slider-carousal-1{
+        display: none !important;
+    }
+    .top-category-main1-small{
+        display: none !important;
+    }
+}
+
+/* ---------------------------- (min-width:1200px and more) -------------------------------------- */
+
+@media (min-width:1201px){
+    .header-main-data-head-small{
+        display: none;
+    }
+    .slider-carousal-1{
+        display: none !important;
+    }
+    .top-category-main1-small{
+        display: none !important;
+    }
+}
