@@ -16,30 +16,33 @@ import TopSeller from './OPD/TopSaller/TopSeller'
 import Slider2 from './OPD/Carousal/Carousal1'
 import './OPD/Responsive/Responsive.css'
 import {Demo} from './Demo'
+import SliderSmall2 from './OPD/SliderSmall1'
 function App() {
   return (
     <>
      <Header />
-    <Home />
+     <Home />
     <div className="slider-carousal">
      <Slider />
      </div>
      <div className="slider-carousal-1">
      <Slider2 />
      </div>
-     <TopCollectionCard  />
+     <TopCollectionCard  /> 
     <TopCategory />
      <TopSeller />
     <SummerSale/>
     <div className="slider1-big">
-    <Slider1 />
+    <Slider1 /> 
     </div>
-    <div className="slider1-small-scr"></div>
+    {/* <div className="slider1-small-scr">
+    <SliderSmall2 />
+    </div> */}
     
-    {/*<Explore />
+    <Explore />
  <FooterUpperComp />
     <SellNFT />
- <Footer />  */}
+ <Footer /> 
     </>
   )
 }

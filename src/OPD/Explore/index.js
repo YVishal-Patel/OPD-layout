@@ -51,24 +51,25 @@ function Explore() {
                 </div>
           </div>
           <div className="row indexes-explre-comp">
-              <div className="col-2"> <ExploreComponent  img={img12}/> </div>
-              <div className="col-2"><ExploreComponent  img={img11}/> </div>
-              <div className="col-2"><ExploreComponent  img={img1}/> </div>
-              <div className="col-2"><ExploreComponent  img={img2}/> </div>
-              <div className="col-2"> <ExploreComponent  img={img3}/> </div>
-              <div className="col-2"> <ExploreComponent  img={img4}/></div> 
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"> <ExploreComponent  img={img12}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"><ExploreComponent  img={img11}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"><ExploreComponent  img={img1}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"><ExploreComponent  img={img2}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"> <ExploreComponent  img={img3}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"> <ExploreComponent  img={img4}/></div> 
 
-              <div className="col-2"> <ExploreComponent  img={img5}/> </div>
-              <div className="col-2"><ExploreComponent  img={img6}/> </div>
-              <div className="col-2"><ExploreComponent  img={img7}/> </div>
-              <div className="col-2"><ExploreComponent  img={img8}/> </div>
-              <div className="col-2"> <ExploreComponent  img={img9}/> </div>
-              <div className="col-2"> <ExploreComponent  img={img10}/></div> 
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"> <ExploreComponent  img={img5}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"><ExploreComponent  img={img6}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"><ExploreComponent  img={img7}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"><ExploreComponent  img={img8}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"> <ExploreComponent  img={img9}/> </div>
+              <div className="col-12 col-xl-2 col-lg-4 col-md-4 col-sm-6"> <ExploreComponent  img={img10}/></div> 
               
           </div>
 
           <button className='explore-last-btn'> View More</button>
       </div>
+
       </>
   )
 }

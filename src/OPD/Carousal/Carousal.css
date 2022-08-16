@@ -536,3 +536,16 @@ margin-left: 3rem;
 .slider-main-data{
     margin: 0 4rem !important;
 }
+ 
+.main-carousel-div{
+    margin-left: 0.5rem;
+    height: 180px;
+    width: 100px !important;
+}
+/*
+.carousal-slider1-small{
+    width: 100px !important;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+} */

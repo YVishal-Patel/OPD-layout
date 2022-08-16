@@ -20,7 +20,7 @@ function Footer() {
     <div className="container">
       <div className="header-main mx-2">
         <div className="row">
-          <div className="col-3">
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
             <div className="footer-logo-heading">
               <span className="footer-logo-headings"> OPD</span>
             </div>
@@ -39,7 +39,7 @@ function Footer() {
             </div>
           </div>
 
-          <div className="col-2">
+          <div className="col-3 col-md-3 col-lg-2 col-xl-2 ">
             <div className="footer-data">
             <span className="footer-datas">MarketPlace</span>
             </div>
@@ -49,7 +49,7 @@ function Footer() {
             <p className="footer-data-value">Virtual Worlds</p>
           </div>
 
-          <div className="col-2">
+          <div className="col-3 col-md-4 col-lg-2 col-xl-2">
             <div className="footer-data">
           <span className="footer-datas">Resources</span>
           </div>
@@ -60,7 +60,7 @@ function Footer() {
             <p className="footer-data-value">Newsletter</p>
           </div>
 
-          <div className="col-2">
+          <div className="col-6 col-md-4 col-lg-2 col-xl-2">
             <div className="footer-data">
           <span className="footer-datas">Company</span>
           </div>
@@ -69,7 +69,7 @@ function Footer() {
             <p className="footer-data-value">Support</p>
           </div>
 
-          <div className="col-3">
+          <div className="col-6 col-md-5 col-lg-3 col-xl-3">
             <div className="footer-data">
           <span className="footer-datas">Get the latest OPD updates</span>
           </div>
@@ -86,7 +86,7 @@ function Footer() {
         <p className='footer-hr'> <hr /></p>
         </div>
 
-        <div className="d-flex justify-content-between ">
+        <div className="d-flex justify-content-between footer-bottom-div ">
           <div className="foot-div-left d-flex">
           <i class="fa-solid fa-copyright foot-copy"></i>
           <span className='foot-copyright-text'>OPD, Inc. All rights reversed.</span>
